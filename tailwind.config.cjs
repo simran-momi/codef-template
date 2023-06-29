@@ -14,6 +14,26 @@ module.exports = {
             "animation-timing-function": "ease-out",
           },
         },
+        typing: {
+          "0%": {
+            width: "0%",
+            visibility: "hidden"
+          },
+          "100%": {
+            width: "100%"
+          }  
+        },
+        blink: {
+          "50%": {
+            borderColor: "transparent"
+          },
+          "100%": {
+            borderColor: "white"
+          }  
+        },
+      },
+      animation: {
+       typing: "typing 3s steps(20) , blink .5s infinite"
       },
       backgroundImage: {
         "gradient-orange": "linear-gradient(to right, #f97316, #e11d48)",

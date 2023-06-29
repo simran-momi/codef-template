@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: Law Student 
-date: 1 June 2023
+title: hello 
+date: 28 June 2023
 image: "/images/my-third-article/chair.png"
 ---
 
