@@ -82,6 +82,7 @@ const { navLinks } = pageSize;
           <li>
             <button
               class="bg-pink-500 hover:bg-purple-500 text-white font-bold py-2 px-4 rounded inline-flex items-center mt-2"
+              id="downloadcvbutton"
             >
               <svg
                 class="fill-current w-4 h-4 mr-2"
@@ -91,8 +92,25 @@ const { navLinks } = pageSize;
                 ></path></svg
               >
               <span> Download CV</span>
+
+              <script type="text/javascript"> >
+                src =
+                  "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js";
+                const downloadButton =
+                  document.getElementById("downloadcvbutton");
+                downloadButton.addEventListener("click", () => {
+                  const pdf = new jsPDF();
+                  pdf.text("Your CV content here", 10, 10); // Replace with your actual CV content
+
+                  // Download the PDF file
+                  
+                  
+                  pdf.save("my_cv.pdf");
+                });
+              </script>
             </button>
           </li>
+          
           <li>
             <!-- <div class="flex flex-wrap justify-left gap-5 mt-4">-->
             <a
