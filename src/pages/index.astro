@@ -24,7 +24,10 @@ const posts = sortDateDescending(
 						<span
 							class="font-bold bg-gradient-to-r from-pink-500 to-purple-500 bg-clip-text text-transparent text scale-1 hover:scale-110 transition-[scale] inline-block"
 						>
-							<a href="blog/articles/Kaur/" class="">
+							<a
+								href="https://32m5yr-3000.csb.app/blog/articles/Kaur/"
+								class=""
+							>
 								Kaur
 							</a></span
 						><span> Momi.</span>
@@ -157,8 +160,21 @@ const posts = sortDateDescending(
 </section>
 
 <script type="text/javascript">
-const button = document.getElementById("reveal-button");
-button.addEventListener("click", () => {
-	document.body.className = "bg-gradient-to-r from-blue-200 to-green-200";
+const colorButton = document.getElementById("reveal-button");
+const colors = ["bg-blue-200", "bg-green-200", "bg-lilac-200"]; // Add more colors if needed
+
+let currentColorIndex = 0;
+
+colorButton.addEventListener("click", () => {
+	const body = document.querySelector("body");
+
+	// Remove the previous color class
+	body.classList.remove(colors[currentColorIndex]);
+
+	// Update the current color index
+	currentColorIndex = (currentColorIndex + 1) % colors.length;
+
+	// Add the new color class
+	body.classList.add(colors[currentColorIndex]);
 });
 </script>

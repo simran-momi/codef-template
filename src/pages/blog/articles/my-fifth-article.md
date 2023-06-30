@@ -5,11 +5,27 @@ date: 5 June 2023
 image: "https://uswitch-contentful.imgix.net/clupaaky6at4/4om0y4YWce1BbIKlnKeg4D/26dceebd4106c88674b024da4f043971/logo-tile-02-uswitch.png?auto=format%2Ccompress&fit=crop&ixlib=react-8.6.4&w=1200"
 ---
 
-![Icon]
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque illo incidunt odit ex mollitia eligendi at eaque consequatur, sequi in repellat fuga qui itaque natus. Ducimus laboriosam, nihil nobis eum rerum facilis, quidem consequatur eligendi provident id in. Quae architecto rem repellendus nam, autem ullam facilis dolores veniam, impedit itaque similique deserunt dolorum eveniet nemo, dolore blanditiis assumenda laborum corporis ut! Fugiat earum molestias voluptatum! Quae recusandae qui inventore sapiente quod dolorum aspernatur ratione eveniet, similique modi dignissimos nihil ut.
+RVU Pay It Forward: Code F, Women in Coding Camp (Incoming June 2023)
+Secured a place on the exclusive Code F programme, a weeklong camp empowering female students pursuing tech related careers  where they are taught fundamental skills in front-end software development. 
 
-Aliquam, fugiat! Nisi saepe maiores neque minima, voluptatibus maxime, architecto debitis molestiae voluptatum eaque a tempore voluptates. Laboriosam, odit dolor. Explicabo facere exercitationem saepe nobis temporibus iure, repellendus atque rem quisquam hic reiciendis aliquid architecto, inventore repudiandae. Incidunt vero, rem obcaecati quam nesciunt distinctio minus voluptas perferendis alias error unde, repellat amet, pariatur nobis voluptatum iste quo. Debitis, ducimus! In nostrum, rerum quam explicabo quaerat cupiditate eos, distinctio officia tempora cumque, fuga consequuntur quas perferendis voluptates sit quos. Quod, tenetur.
 
-Repellendus alias accusamus reprehenderit quam, qui, quae dolorem nihil, repellat necessitatibus fugit assumenda. Iste, repellendus obcaecati aliquam molestias perspiciatis eligendi unde nisi eius, reiciendis est assumenda cupiditate similique totam consequuntur excepturi! Optio iste obcaecati accusantium autem neque voluptatibus illo adipisci hic, blanditiis facere ipsum alias molestiae pariatur modi mollitia deserunt sunt. Officia natus corporis incidunt quasi odit, fugiat odio exercitationem explicabo, dicta excepturi earum vitae deserunt est obcaecati expedita libero esse mollitia ipsam nobis inventore quis quae. Rerum, non iusto.
+  • Will set up CodeSandbox to create an environment to build a basic web design page applying learnt skills in HTML and CSS.
+  • Will apply these skills to create a personal website populating it with pages and interactive content applying skills in CMS.
 
-Sequi, sit. Aliquid, cumque adipisci? Provident nobis saepe quia voluptatibus consequuntur itaque deserunt fuga tempore expedita hic ipsum amet sequi, placeat soluta natus, pariatur explicabo, eligendi commodi? Recusandae reprehenderit quidem maiores explicabo exercitationem porro accusantium ipsum laudantium sapiente, repellendus omnis minima pariatur tempora iure non excepturi odit distinctio, totam eos, ut alias dolores hic esse nesciunt. Quia libero neque iure vel! Molestiae suscipit cupiditate illum a, sit labore corrupti non tenetur officiis voluptatum nulla, deleniti nam iure quo sed vel?
+Rolls Royce R2 Factory X Code First Girls: AI & ML Climate Change Competition (October 2022) 
+I completed a series of qualifying  coding courses encompassing: JavaScript, HTML & CSS, Python & App development as well as an introduction into AI & Machine Learning.
+
+
+  • After 3-6 months of coding I formed a team and participated in R2 Factory’s AI & ML competition challenging students to 
+  create a ML model themed around climate change. Hence, I formulated a project plan and created a linear regression 
+  model that trained on past data of aviation emissions and studied the correlation between air pollution and global warming. 
+  • Illustrated this via a series of graphics and diagrams using Numpy, Pandas, Seaborn, Matplotlib.pyplot and Python libraries.  
+  • Applied a debugging process and evaluated the value of the model based on performance metrics.
+
+ LegalHackers: University of Kent, Founder (September 2022 - Present) 
+Initiating the establishment of the LegalHackers Society at the University of Kent, providing a space for students to engage in the innovative solutions at the intersection of law and technology. 
+
+
+  • Assembled a committee of members to navigate the society including appointing treasurer and secretary positions. 
+  • Planned social events and career development opportunities including Q&A panels and future hackathons. 
+  • Strategised society campaigns to encourage women and POC to engage with the society and collaborate on projects. 
