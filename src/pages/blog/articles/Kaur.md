@@ -1,8 +1,8 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: CHUPPA
+title: COABK | Published @ Pardesi
 date: 5 June 2023
-image: "/images/my-third-article/chair.png"
+image: "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/241209746_369527404835832_7550030016457529845_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XNhzBwGp9ocAX8DEKJY&_nc_ht=scontent-lhr8-1.xx&oh=00_AfAikQY6l-kdNe6qlxG37ZLmij8O7G4xSGCYwx2kEs4wKA&oe=64A4107E"
 ---
 
 ![Icon](https://i.ytimg.com/vi/7Tt6Yv9czz8/maxresdefault.jpg)
