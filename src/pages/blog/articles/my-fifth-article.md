@@ -1,11 +1,11 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: hello 
-date: 28 June 2023
-image: "/images/my-third-article/chair.png"
+title: Code F Bootcamp with RVU
+date: 5 June 2023
+image: "https://uswitch-contentful.imgix.net/clupaaky6at4/4om0y4YWce1BbIKlnKeg4D/26dceebd4106c88674b024da4f043971/logo-tile-02-uswitch.png?auto=format%2Ccompress&fit=crop&ixlib=react-8.6.4&w=1200"
 ---
 
-![Icon](https://i.ytimg.com/vi/7Tt6Yv9czz8/maxresdefault.jpg)
+![Icon]
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque illo incidunt odit ex mollitia eligendi at eaque consequatur, sequi in repellat fuga qui itaque natus. Ducimus laboriosam, nihil nobis eum rerum facilis, quidem consequatur eligendi provident id in. Quae architecto rem repellendus nam, autem ullam facilis dolores veniam, impedit itaque similique deserunt dolorum eveniet nemo, dolore blanditiis assumenda laborum corporis ut! Fugiat earum molestias voluptatum! Quae recusandae qui inventore sapiente quod dolorum aspernatur ratione eveniet, similique modi dignissimos nihil ut.
 
 Aliquam, fugiat! Nisi saepe maiores neque minima, voluptatibus maxime, architecto debitis molestiae voluptatum eaque a tempore voluptates. Laboriosam, odit dolor. Explicabo facere exercitationem saepe nobis temporibus iure, repellendus atque rem quisquam hic reiciendis aliquid architecto, inventore repudiandae. Incidunt vero, rem obcaecati quam nesciunt distinctio minus voluptas perferendis alias error unde, repellat amet, pariatur nobis voluptatum iste quo. Debitis, ducimus! In nostrum, rerum quam explicabo quaerat cupiditate eos, distinctio officia tempora cumque, fuga consequuntur quas perferendis voluptates sit quos. Quod, tenetur.
