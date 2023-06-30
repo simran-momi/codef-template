@@ -7,17 +7,25 @@ export interface Props {
 }
 
 const { content } = Astro.props as Props;
-const { title, image, imageDescription, description } = content;
+const { title, previous, image, imageDescription, description } = content;
 const date = new Date(content.date);
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={previous} {title} description={description}>
+  {previous}
+  <div class="inline-flex">
+    <button
+      class="bg-pink-500 hover:bg-purple-500 text-white font-bold py-2 px-4 rounded-l"
+    >
+      <a href="https://rmtvln-3000.csb.app/"> Exit</a>
+    </button>
+  </div>
+  <br />
   <h1
     class="text-3xl md:text-5xl 2xl:text-6xl mb-[0.8em] font-extrabold mx-auto w-fit"
   >
     {title}
   </h1>
-
   {
     image ? (
       <Fragment>

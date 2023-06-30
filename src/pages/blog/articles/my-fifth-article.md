@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: hello 
-date: 28 June 2023
+title: Code F Bootcamp with RVU
+date: 5 June 2023
 image: "/images/my-third-article/chair.png"
 ---
 
